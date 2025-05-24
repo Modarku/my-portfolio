@@ -51,7 +51,7 @@ export default function Component() {
     },
     {
       title: "Corazones: Simple Platformer",
-      description: "An experimental minimalistic 2D platformer where the player wanders around a hermit's home next to the ruins.",
+      description: "An experimental minimalistic 2D platformer where the player wanders around the home of a hermit next to the ruins.",
       tech: ["GDscript"],
       github: "https://github.com/Modarku/Olamit-Corazones",
       demo: "https://modarku.itch.io/corazones",
@@ -138,7 +138,7 @@ export default function Component() {
             />
           </div>
           <h1 className="text-4xl sm:text-6xl font-bold mb-6">
-            Hai, I'm <span className="text-primary">Jian Lev</span>
+            Hai, I&apos;m <span className="text-primary">Jian Lev</span>
           </h1>
           <p className="text-xl sm:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">
             Aspiring Game Developer, currently Full-Stack Developer.
@@ -164,11 +164,11 @@ export default function Component() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <p className="text-lg text-muted-foreground mb-6">
-                I'm a full-stack developer with over 3 years of experience building web applications. I aspire to be a game developer and love
+                I&apos;m a full-stack developer with over 3 years of experience building web applications. I aspire to be a game developer and love
                 turning complex problems into simple, beautiful, and intuitive solutions.
               </p>
               <p className="text-lg text-muted-foreground mb-6">
-                When I'm not coding, I have hobbies such as digital art, video editing, and photo editing.
+                When I&apos;m not coding, I have hobbies such as digital art, video editing, and photo editing.
               </p>
               <div className="flex gap-4">
                 <Button variant="outline" size="icon" asChild>
@@ -258,9 +258,9 @@ export default function Component() {
       {/* Contact Section */}
       <section id="contact" className="py-20 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-3xl sm:text-4xl font-bold mb-6">Let's Work Together</h2>
+          <h2 className="text-3xl sm:text-4xl font-bold mb-6">Let&apos;s Work Together</h2>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-            I'm always interested in new opportunities and exciting projects. Let's discuss how we can bring your ideas
+            I&apos;m always interested in new opportunities and exciting projects. Let&apos;s discuss how we can bring your ideas
             to life!
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
